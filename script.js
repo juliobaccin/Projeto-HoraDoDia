@@ -7,6 +7,7 @@ function carregar() {
     var data = new Date()
     var hora = data.getHours()
     var minut = data.getMinutes()
+    var hora = 19
     msg.innerHTML = `Agora é ${hora}:${minut} minutos`
     if (hora >= 0 && hora < 12) {
         msg2.innerHTML = 'Bom dia!'
@@ -20,7 +21,7 @@ function carregar() {
         roda.style.color = '#748BAA'
         cabe.style.color = '#748BAA'
         msg2.addEventListener('mouseover', function(){
-            msg2.style.background ='#62575481' 
+            msg2.style.background = '#8094AC'
         })
         msg2.addEventListener('mouseout', function(){
             msg2.style.background = 'white'
