@@ -7,7 +7,7 @@ Projeto - Website Hora do Dia
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-JavaScript-Hora-do-Dia/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-HoraDoDia/">aqui</a>
 </p>
 
 <div align="center">
