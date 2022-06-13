@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Projeto - Website Hora do Dia
+Projeto - Hora do Dia
 </h1>
  
  <p align="center">
